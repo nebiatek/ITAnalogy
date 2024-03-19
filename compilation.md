@@ -16,7 +16,6 @@
 
 > Un bon script, c’est comme une recette de grand-mère : il se transmet de génération en génération, et même si on n'en comprends pas tous les secrets, le résultat est toujours bon.
 
----
 
 # Si tu ... pourquoi pas ... ?
 
@@ -38,7 +37,6 @@
 
 > Si tu vérifies l’identité de quelqu’un avant de lui ouvrir ta porte, pourquoi ne pas vérifier l’expéditeur d’un email avant de cliquer sur un lien ?
 
----
 
 # La différence entre ... et ... c'est ...
 
